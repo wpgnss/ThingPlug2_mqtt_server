@@ -1,0 +1,11 @@
+{
+  "name": "tp20_simple_app",
+  "version": "1.0.0",
+  "description": "ThingPlug 2.0 Simple App",
+  "main": "server.js",
+  "author": "Daniel",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mqtt": "^2.17.0"
+  }
+}
